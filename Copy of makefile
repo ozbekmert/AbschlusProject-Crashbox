@@ -1,0 +1,2 @@
+thread: mainProgram.cpp
+	g++ mainProgram.cpp Video.c Video.h -w -pthread
